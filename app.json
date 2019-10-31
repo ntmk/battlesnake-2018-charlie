@@ -1,0 +1,7 @@
+{
+  "name": "Charlie",
+  "description": "A BattleSnake AI written in Python.",
+  "repository": "https://github.com/ntmk/charlie",
+  "website": "https://www.ntmk.ca",
+  "keywords": ["battlesnake","ntmk","nathan mackenzie"]
+}
